@@ -9,6 +9,7 @@
 .idea/**/tasks.xml
 .idea/dictionaries
 
+
 # Sensitive or high-churn files:
 .idea/**/dataSources/
 .idea/**/dataSources.ids
@@ -23,7 +24,7 @@
 .idea/**/libraries
 
 # CMake
-cmake-build-debug/
+/cmake-build-*/
 
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
